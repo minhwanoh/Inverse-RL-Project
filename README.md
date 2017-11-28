@@ -20,5 +20,11 @@ https://arxiv.org/pdf/1606.03476.pdf <br />
 Code: https://github.com/andrewliao11/gail-tf
 
 Baram et al. ICML ’17. use learned dynamics model to backdrop through discriminator: <br />
-http://proceedings.mlr.press/v70/baram17a/baram17a.pdf
+http://proceedings.mlr.press/v70/baram17a/baram17a.pdf <br />
+Code: https://github.com/itaicaspi/mgail
+
+## Evolution Strategy
+Salimans et al. Gradient free. highly parallelizable black box method: : <br />
+https://arxiv.org/pdf/1703.03864.pdf
+
 
