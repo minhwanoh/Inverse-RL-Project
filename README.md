@@ -5,8 +5,8 @@
 Ziebart et al. The classic Maximum Entropy Inverse RL:<br />
 https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf
 
-Wulfmeier et al. MaxEnt IRL with neural net reward function, known dynamics:
-http://www.robots.ox.ac.uk/~mobile/Papers/DeepIRL_2015.pdf
+Wulfmeier et al. MaxEnt IRL with neural net reward function, known dynamics:<br />
+http://www.robots.ox.ac.uk/~mobile/Papers/DeepIRL_2015.pdf<br />
 Code: https://github.com/stormmax/irl-imitation
       https://github.com/MatthewJA/Inverse-Reinforcement-Learning
 
