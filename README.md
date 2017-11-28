@@ -1,8 +1,8 @@
-# Inverse-RL-Project
+# Inverse RL Project
 
 
 ## MaxEnt IRL
-Ziebart et al. The classic Maximum Entropy Inverse RL: 
+Ziebart et al. The classic Maximum Entropy Inverse RL:<br />
 https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf
 
 Wulfmeier et al. MaxEnt IRL with neural net reward function, known dynamics:
