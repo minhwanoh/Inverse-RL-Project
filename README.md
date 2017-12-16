@@ -12,7 +12,7 @@ Code: https://github.com/stormmax/irl-imitation <br />
 
 Chelsea Finn, et al. ICML ’16 Sampling based method for MaxEnt IRL that handles unknown dynamics and deep reward functions:<br />
 https://arxiv.org/pdf/1603.00448.pdf <br />
-Code: https://github.com/cbfinn/gps
+Code: https://github.com/justinjfu/inverse_rl
 
 ## Adversarial IRL
 Ho & Ermon. NIPS ’16. Generative Adversarial Imitation Learning, Inverse RL method using generative adversarial networks: <br />
